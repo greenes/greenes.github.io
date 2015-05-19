@@ -1,0 +1,27 @@
+header {
+  min-height: 30%;
+  margin: auto;
+  text-align: center;
+  background-color: #251e47;
+  color:#d6dfe6;
+  padding: 20px;
+}
+
+.bio {
+  background-color: #959dcd;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.links {
+  text-align: center;
+  padding: 10px;
+
+}
+
+.portfolio, .portfolio a {
+  text-align: center;
+  padding: 10px;
+  font-family: arial, sans-serif;
+  color: #514d4d;
+}

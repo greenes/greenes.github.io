@@ -5,34 +5,68 @@ header {
   background-color: #251e47;
   color: #d6dfe6;
   padding: 20px;
-  width: 100%; }
+  width: 100%;
+  font-family: arial, sans-serif;
+
+}
+
+.profpic{
+  border-radius: 100%;
+  width: 220px;
+  height: 200px;
+}
 
 .bio {
   background-color: #959dcd;
-  padding: 30px;
+  padding: 20px;
   font-size: 20px;
-  width: 100%; }
+  width: 100%;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
 
 .links, .portfolio, .portfolio a {
-  width: 100px;
+  width: 300px;
   text-align: center;
-  padding: 10px;
-  width: 100%;
   margin: auto;
-  font-family: arial, sans-serif; }
-
-.portfolio, .portfolio a {
-  color: #514d4d;
-  width: 100%; }
-  .portfolio ul, .portfolio a ul {
-    list-style-type: none; }
+  font-family: arial, sans-serif;
+  color: black;
+}
 
 img {
   height: 100px;
   display: inline;
-  margin: auto; }
+  margin: auto;
+}
 
-ul {
-  list-style-type: none; }
+.gotogether a {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #008080;
+    width: 200px;
+    padding: 10px;
+
+}
+
+
+.artbeat a {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #fa334f;
+    width: 200px;
+    padding: 10px;
+
+}
+
+.signs a {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #7d6199;
+    width: 100%;
+    padding: 10px;
+}
 
 /*# sourceMappingURL=portfolio.css.map */
